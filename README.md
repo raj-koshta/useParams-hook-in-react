@@ -16,8 +16,6 @@ Today, I took a deep dive into useParams, a React hook that allows me to access 
 💡 Why This Matters: 
   Understanding and using useParams allows for more interactive and dynamic routing in React apps. It makes it easy to create personalized and context-sensitive content for users without needing to reload pages. It’s an essential skill for building modern web apps!
 
-💻 Check out my GitHub to see the full code and how I’ve implemented dynamic routing with useParams: 🔗 GitHub Repository
-
 If you’ve used useParams or have any tips on routing in React, feel free to share—I’d love to hear from you!
 
 Here’s to another day of growth and learning! 💻🙌
